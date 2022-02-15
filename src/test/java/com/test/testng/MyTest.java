@@ -6,7 +6,7 @@ import org.testng.annotations.AfterMethod;
 
 public class MyTest {
   @Test
-  public void f() {
+  public void test() {
 	  System.out.println("Test");
   }
   @BeforeMethod
